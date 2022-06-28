@@ -1,6 +1,6 @@
 body{
 	position:relative;
-    background-image: url("../Img/Fondo/fondo.png");
+    background-image: url("../img/fondo/fondo.png");
     left: 200px;
 	top: 50px;
 	width: 900px;
@@ -67,7 +67,7 @@ header{
 	transition: background 1s, color 1s;
 }
 
-.LogoF
+.logof
 	{
 		position: relative;
 		height: 1px;
@@ -78,7 +78,7 @@ header{
 
 	}	
 
-.LogoF2
+.logof2
 	{
 		position: relative;
 		height: 1px;
