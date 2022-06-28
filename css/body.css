@@ -1,6 +1,6 @@
 body{
 	position:relative;
-    background-image: url("../Img/Fondo/fondo.png");
+    background-image: url("../img/fondo/fondo.png");
     left: 200px;
 	top: 50px;
 	width: 900px;
@@ -98,7 +98,7 @@ div{
 
 .center{
         position:relative;
-        background-image: url("../Img/Menu/fondo.jpg");
+        background-image: url("../img/menu/fondo.jpg");
 		top:-100px;
 		bottom:;
 		right:;
