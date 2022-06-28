@@ -1,6 +1,6 @@
 body{
 	position:relative;
-  background-image: url("../Img/Fondo/fondo.png");
+  background-image: url("../img/fondo/fondo.png");
   left: 200px;
 	top: 50px;
 	width: 900px;
@@ -83,7 +83,7 @@ p{
 }
 
 
-.BCamaron
+.bcamaron
 	{
 		position: relative;
 		background-color: white;
@@ -98,7 +98,7 @@ p{
 		line-height: 20px;
 	}
 
-.BCamaron img
+.bcamaron img
 {
   width: 200px;
   height: 200px;
@@ -109,7 +109,7 @@ p{
   display: inline-block;
 }
 
-.BMarina
+.bmarina
 	{
 		position: relative;
 		background-color: white;
@@ -124,7 +124,7 @@ p{
 		line-height: 20px;
 	}
 
-.BMarina img
+.bmarina img
 {
   width: 220px;
   height: 200px;
@@ -135,7 +135,7 @@ p{
   display: inline-block;
 }
 
-.BChorizo
+.bchorizo
 	{
 		position: relative;
 		background-color: white;
@@ -150,7 +150,7 @@ p{
 		line-height: 20px;
 	}
 
-.BChorizo img
+.bchorizo img
 {
   width: 220px;
   height: 200px;
@@ -161,7 +161,7 @@ p{
   display: inline-block;
 }
 
-.BFHot
+.bfhot
 	{
 		position: relative;
 		background-color: white;
@@ -176,7 +176,7 @@ p{
 		line-height: 20px;
 	}
 
-.BFHot img
+.bfhot img
 {
   width: 200px;
   height: 200px;
